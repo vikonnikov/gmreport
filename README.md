@@ -11,6 +11,10 @@
 
 ## Работа с программой
 
+Общий вид программы представлен на рисунке
+
+<img src="https://raw.githubusercontent.com/vikonnikov/gmreport/master/docs/gmreport-main.png" width="700" height="490">
+
 ### Шаг 1 - Настройка
 
 ### Шаг 2 - Генерация отчета
