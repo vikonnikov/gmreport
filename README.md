@@ -15,7 +15,7 @@
 
 Общий вид программы представлен на рисунке
 
-<img src="https://raw.githubusercontent.com/vikonnikov/gmreport/master/docs/gmreport-main.png" width="490">
+<img src="https://raw.githubusercontent.com/vikonnikov/gmreport/master/docs/gmreport.png" width="490">
 
 ### Шаг 1 - Настройка и обработка данных
 
